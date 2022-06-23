@@ -1,5 +1,6 @@
 ﻿# Music Synthesizer
-Make a Magical Music Machine through building your own MIDI controller! Using MIDI (Musical Interface Digital Interface)
+Make a Magical Music Machine through building your own MIDI controller!                                                   
+My audio synthesizer is a physical interface that uses MIDI (Musical Interface Digital Interface) to play sounds & ultimately make music.
 
 
 | **Engineer** | **High School** | **Area of Interest** | **Grade** |
