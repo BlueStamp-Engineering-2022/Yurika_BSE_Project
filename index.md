@@ -7,7 +7,7 @@ My audio synthesizer is a physical interface that uses MIDI (Musical Interface D
 |:--:|:--:|:--:|:--:|
 | Yurika Kan | St. Francis | Electrical Engineering, Firmware | Incoming Senior
 
-![https://lh3.googleusercontent.com/pw/AM-JKLXFJsof3TlFOFH19qa5XiXRCNvOHIMfaLcmiIO_4gCuEeKaMxhuagLaFP4-txvG7Y9cQ0Z9-gk90_JbTb9AIddhmjCikbisJLRQ7nHx4b_IBusnHUYArycwFEq2XgH0lS2mrBYpV5sWASqRsvoU2Kg=s1640-no?authuser=0](https://lh3.googleusercontent.com/pw/AM-JKLXFJsof3TlFOFH19qa5XiXRCNvOHIMfaLcmiIO_4gCuEeKaMxhuagLaFP4-txvG7Y9cQ0Z9-gk90_JbTb9AIddhmjCikbisJLRQ7nHx4b_IBusnHUYArycwFEq2XgH0lS2mrBYpV5sWASqRsvoU2Kg=s1640-no?authuser=0)
+![Portrait](https://lh3.googleusercontent.com/pw/AM-JKLXFJsof3TlFOFH19qa5XiXRCNvOHIMfaLcmiIO_4gCuEeKaMxhuagLaFP4-txvG7Y9cQ0Z9-gk90_JbTb9AIddhmjCikbisJLRQ7nHx4b_IBusnHUYArycwFEq2XgH0lS2mrBYpV5sWASqRsvoU2Kg=s1640-no?authuser=0)
   
 
 
@@ -22,9 +22,13 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 [![Second Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574014/video_to_markdown/images/youtube--y3VAmNlER5Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=y3VAmNlER5Y&feature=emb_logo "Second Milestone"){:target="_blank" rel="noopener"}
 
 # First Milestone 
-Milestone one is to test the functionality of one button through wiring it to an arduino, in order to familiarize with the wiring process of the controller. I connected a wire from ground to the negative side of the breadboard, then used alligator clips to securely connect the wires to the button. I uploaded a code that turns the LED light on when the button is pressed. 
+Milestone one is to test the functionality of one button through wiring it to an arduino, in order to familiarize with the wiring process of the controller. I connected a wire from ground to the negative side of the breadboard, then used alligator clips to securely connect the wires to the button. I uploaded a code that turns the LED light on when the button is pressed. The next step would be to test the button's functionality in relation to MIDI, so that pressing the button would initate a sound to be played. 
 
 [![First Milestone](https://i3.ytimg.com/vi/xcev04r7U3c/maxresdefault.jpg)](https://www.youtube.com/watch?v=xcev04r7U3c)
+
+
+Connecting a Push Button to an Arduino Uno with Two Wires:
+![First Milestone Pic](http://r5d4.co/images/UnoPushButtonTwoWires.png)
 
 
 # Starter Project
@@ -32,6 +36,8 @@ Simon Says Game is a fun game where the player attempts to replicate lighting pa
 
 
 [![Starter Project](https://i3.ytimg.com/vi/hb178l7bCHs/maxresdefault.jpg)](https://www.youtube.com/watch?v=hb178l7bCHs)
+Simon Says Game:
 
+![Starter Pic](https://cdn.sparkfun.com//assets/parts/5/1/5/0/SparkFun_Simon_Says_-_Through-Hole_Soldering_Kit-03.jpg)
 
 
