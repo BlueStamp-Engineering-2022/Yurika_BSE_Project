@@ -28,7 +28,7 @@ Milestone one is to test the functionality of one button through wiring it to an
 
 
 Connecting a Push Button to an Arduino Uno with Two Wires:
-![First Milestone Pic](http://r5d4.co/images/UnoPushButtonTwoWires.png)
+![687474703a2f2f723564342e636f2f696d616765732f556e6f50757368427574746f6e54776f57697265732e706e67](https://user-images.githubusercontent.com/107583678/176976764-577f580a-b063-4661-919e-fb15f3a44748.png)
 
 
 # Starter Project
