@@ -5,7 +5,7 @@ My audio synthesizer is a physical interface that uses MIDI (Musical Interface D
 
 | **Engineer** | **High School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Yurika Kan | St. Francis | Electrical Engineering, Firmware | Incoming Senior
+| Yurika | St. Francis | Electrical Engineering, Firmware | Incoming Senior
 
 ![Portrait](https://lh3.googleusercontent.com/pw/AM-JKLXFJsof3TlFOFH19qa5XiXRCNvOHIMfaLcmiIO_4gCuEeKaMxhuagLaFP4-txvG7Y9cQ0Z9-gk90_JbTb9AIddhmjCikbisJLRQ7nHx4b_IBusnHUYArycwFEq2XgH0lS2mrBYpV5sWASqRsvoU2Kg=s1640-no?authuser=0)
   
