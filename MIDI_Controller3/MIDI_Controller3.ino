@@ -1,34 +1,14 @@
-/*
-  
-     >> Making Music with Arduino: https://nerdmusician.teachable.com/p/making-music-with-arduino
-     >> Course Making Music with Arduino in Portuguese: https://www.musiconerd.com/curso-completo
-
-  By by Gustavo Silveira, 2020.
-  - This Sketch reads Arduino's digital and analog ports and sends midi notes and MIDI Control Change
-
-  Want to learn how to make your own code and understand other people's code?
-  Check out our complete course on Making Music with Arduino: http://musiconerd.com/curso-completo
-  
-  http://www.musiconerd.com
-  http://www.youtube.com/musiconerd
-  http://facebook.com/musiconerdmusiconerd
-  http://instagram.com/musiconerd/
-  http://www.gustavosilveira.net
-  gustavosilveira@musiconerd.com
-
+/* Sketch reads Arduino's digital & analog ports then sends MIDI notes and MIDI Control Change
 */
 
 
 ///////////////////////////////////////////
 // choosing your board
-// Set your board, choose:
 // "ATMEGA328" if using ATmega328 - Uno, Mega, Nano...
 // "ATMEGA32U4" if using with ATmega32U4 - Micro, Pro Micro, Leonardo...
-// "TEENSY" if using a Teensy card
 // "DEBUG" if you just want to debug the code on the serial monitor
-// you don't need to comment or uncomment any MIDI library below after defining your board
 
-#define ATMEGA32U4 1 //* put here the uC you are using, like in the lines above followed by "1", like "ATMEGA328 1", "DEBUG 1", etc.
+#define ATMEGA32U4 1 
 
 ///////////////////////////////////////////
 // LIBRARIES
@@ -194,7 +174,7 @@ Serial.println(": button off");
 // POTENTIOMETERS
 void potentiometers() {
 
-  /* so that only the analog ports are read when they are used, without losing resolution,
+  /* establishing varThreshold- only analog ports are read when they are used, without losing resolution,
     It is necessary to establish a "threshold" (varThreshold), a minimum value that the ports have to be moved
     to start reading. After that, a kind of "gate" is created, a gate that opens and allows
     that the analog ports are read without interruption for a certain time (TIMEOUT). When the timer is less than TIMEOUT
