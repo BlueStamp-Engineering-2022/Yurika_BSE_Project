@@ -1,4 +1,4 @@
-﻿# Music Synthesizer
+﻿# Music Synthesizer (MIDI) 
 Make a Magical Music Machine by building your own MIDI controller!                                                   
 My audio synthesizer is a physical interface that uses MIDI (Musical Interface Digital Interface) to play sounds & ultimately make music.  
 
