@@ -7,7 +7,7 @@ My audio synthesizer is a physical interface that uses MIDI (Musical Interface D
 |:--:|:--:|:--:|:--:|
 | Yurika | St. Francis | Software Engineering, Design, Firmware | Incoming Senior
  
-# Makings of my Magical Music Machine:
+# Making my Magical Music Machine:
 
 # Final Milestone
 Milestone three was polishing up to ensure that my device had no other errors. Once the hardware issue was resolved, I connected my MIDI controller to the computer, opened Garageband, and played around with different sound sets, such as the drums, piano, and violin. I learned to play some of my favorite songs on the MIDI controller with the piano sounds. I labeled each button according to their note on the piano to make it easier for me to play songs. You can see in my demo video when I played a short bit of a song on piano and a bit on the drum set. While I was initially hoping to make my own modifications such as slider potentiometers to control note range and pitch, the hardware error took longer to resolve and I was not ablwe to get to my modifications. However, I've worked on them after the program and I am very happy with the result of my device. I play with it almost everyday, whether it's to experiment with new sounds or to relieve some stress. During this project, I switched my Arduino Uno to an Arduino mini, experimented with various music software, implemented different code programs, and adapted to the challenges I faced. I am forever grateful for my experience here, where I learned that no matter the challenges put against me, I will always overcome as long as I continue to try. Thanks for checking my project out!  
